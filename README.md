@@ -1,7 +1,8 @@
 # node_sebot<br>
-基于node.js的Pixiv图片搜索发送QQ机器人，使用go-cqhttp作为无头QQ客户端<br>
+基于node.js的Pixiv图片搜索发送QQ机器人，使用go-cqhttp作为无头QQ客户端。<br>
+在群聊中发送“色图”或“色图 御姐”调用机器人。<br>
 
-config.json说明<br>
+config.json说明：<br>
     "host": "127.0.0.1", 本地bot使用地址<br>
     "port": 64000,  本地bot使用端口<br>
     "local_proxy": "http://127.0.0.1:10809", Pixiv图片下载代理，HTTP。留空不使用代理<br>
