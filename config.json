@@ -1,0 +1,16 @@
+{
+    "host": "127.0.0.1",
+    "port": 64000,
+    "local_proxy": "http://127.0.0.1:10809",
+    "pixiv_proxy": "null",
+    "R18": 2,
+    "NormalPath": "",
+    "R18Path": "",
+    "Size": "original",
+    "Save_image": true,
+    "SetuCD": 120,
+    "admin":[
+        {"admin_id": 123456},
+        {"admin_id": 123456}
+    ]
+}
